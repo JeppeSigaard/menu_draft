@@ -2,7 +2,7 @@
 /*
 
 Plugin Name: Smamo Menu Draft
-Description: Fjern drafts fra menuer
+Description: Fjern drafts fra menuer, og vis kun menupunkter for private posts, hvis brugeren er logget ind.
 Version:     1.0.1
 Author:      SmartMonkey
 Author URI:  https://smartmonkey.dk
